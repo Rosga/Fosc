@@ -1,0 +1,10 @@
+D:\Programming\C#\projects\favsites\FavouriteSitesDAL\FavouriteSitesDAL\bin\Debug\FavouriteSitesDAL.dll
+D:\Programming\C#\projects\favsites\FavouriteSitesDAL\FavouriteSitesDAL\bin\Debug\FavouriteSitesDAL.pdb
+D:\Programming\C#\projects\favsites\FavouriteSitesDAL\FavouriteSitesDAL\obj\Debug\FavouriteSitesDAL.csprojResolveAssemblyReference.cache
+D:\Programming\C#\projects\favsites\FavouriteSitesDAL\FavouriteSitesDAL\obj\Debug\FavouriteSitesDAL.dll
+D:\Programming\C#\projects\favsites\FavouriteSitesDAL\FavouriteSitesDAL\obj\Debug\FavouriteSitesDAL.pdb
+D:\Programming\C#\projects\favsites\FavSites\FavouriteSitesDAL\bin\Debug\FavouriteSitesDAL.dll
+D:\Programming\C#\projects\favsites\FavSites\FavouriteSitesDAL\bin\Debug\FavouriteSitesDAL.pdb
+D:\Programming\C#\projects\favsites\FavSites\FavouriteSitesDAL\obj\Debug\FavouriteSitesDAL.csprojResolveAssemblyReference.cache
+D:\Programming\C#\projects\favsites\FavSites\FavouriteSitesDAL\obj\Debug\FavouriteSitesDAL.dll
+D:\Programming\C#\projects\favsites\FavSites\FavouriteSitesDAL\obj\Debug\FavouriteSitesDAL.pdb
